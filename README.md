@@ -54,7 +54,8 @@ Detailed installation instructions are now on its own file (see the [In a Hurry]
 			- You recognize and respect any trademarks
 			- You don't impersonate the authors, neither redistribute a derivative that could be misrepresented as theirs.
 			- You credit the author and republish the copyright notices on your works where the work is used.
-			- You relicense (and fully comply) your works using GPL 2.0 (or later)
+			- You relicense (and fully comply) your works using GPL 2.0
+				- Please note that upgrading the license to GPLv3 **IS NOT ALLOWED** for this work, as the author **DID NOT** added the "or (at your option) any later version" on the license.
 			- You don't mix your work with GPL incompatible works.
 	+ If by some reason the GPL would be invalid for you, rest assured that you still retain the right to Use the Work under SKL 1.0.
 
@@ -67,12 +68,13 @@ See [NOTICE](./NOTICE) for further copyright and trademarks notices.
 
 ## References
 
+* TweakScale /L ([LisiasT](https://forum.kerbalspaceprogram.com/index.php?/profile/187168-lisias/))
+	+ [Homepage](http://ksp.lisias.net/add-ons/TweakScale) on L Aerospace
+	+ [Reddit](https://www.reddit.com/r/TweakScale/)
+	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*/)
+	+ [CurseForge](https://kerbal.curseforge.com/projects/tweakscale)
+	+ [SpaceDock](https://spacedock.info/mod/127/TweakScale)
+	+ [GitHub](https://github.com/net-lisias-ksp/TweakScale)
 * Large Boat Parts Pack ([SpannerMonkey](https://forum.kerbalspaceprogram.com/index.php?/profile/50907-spannermonkeysmce/))
 	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/155992-14x-large-boat-parts-pack-v393-read-first-post-before-installing/)
 	+ [SpaceDock](https://spacedock.info/mod/167/Large%20Boat%20Parts%20Pack)  
-* TweakScale /L ([LisiasT](https://forum.kerbalspaceprogram.com/index.php?/profile/187168-lisias/))
-	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/179030-ksp-141-tweakscale-under-lisias-management-24310-2019-1030/)
-	+ [CurseForge](https://kerbal.curseforge.com/projects/tweakscale)
-	+ [SpaceDock](https://spacedock.info/mod/127/TweakScale)
-	+ [Homepage](http://ksp.lisias.net/add-ons/TweakScale) on L Aerospace
-	+ [GitHub](https://github.com/net-lisias-ksp/TweakScale).
