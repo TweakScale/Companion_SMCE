@@ -5,18 +5,18 @@ Adds TweakScale /L patches for SMCE Add'Ons.
 
 ## In a Hurry
 
-* [Source](https://github.com/net-lisias-ksp/TweakScaleCompanion_SMCE)
-	+ [Issue Tracker](https://github.com/net-lisias-ksp/TweakScaleCompanion_SMCE/issues)
+* [Source](https://github.com/TweakScale/Companion_SMCE)
+	+ [Issue Tracker](https://github.com/TweakScale/Companion_SMCE/issues)
 * Documentation
 	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/192216-tweakscale-companion-program/)
-	+ [Project's README](https://github.com/net-lisias-ksp/TweakScaleCompanion_SMCE/blob/master/README.md)
-	+ [Install Instructions](https://github.com/net-lisias-ksp/TweakScaleCompanion_SMCE/blob/master/INSTALL.md)
+	+ [Project's README](https://github.com/TweakScale/Companion_SMCE/blob/master/README.md)
+	+ [Install Instructions](https://github.com/TweakScale/Companion_SMCE/blob/master/INSTALL.md)
 	+ [Change Log](./CHANGE_LOG.md)
 	+ [Known Issues](./KNOWN_ISSUES.md)
 * Official Distribution Sites:
-	+ [Source and Binaries](https://github.com/net-lisias-ksp/TweakScaleCompanion_SMCE) on GitHub.
-	+ [Latest Release](https://github.com/net-lisias-ksp/TweakScaleCompanion_SMCE/releases)
-		- [Binaries](https://github.com/net-lisias-ksp/TweakScaleCompanion_SMCE/Archive)
+	+ [Source and Binaries](https://github.com/TweakScale/Companion_SMCE) on GitHub.
+	+ [Latest Release](https://github.com/TweakScale/Companion_SMCE/releases)
+		- [Binaries](https://github.com/TweakScale/Companion_SMCE/Archive)
 
 
 ## Description
@@ -74,7 +74,7 @@ See [NOTICE](./NOTICE) for further copyright and trademarks notices.
 	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*/)
 	+ [CurseForge](https://kerbal.curseforge.com/projects/tweakscale)
 	+ [SpaceDock](https://spacedock.info/mod/127/TweakScale)
-	+ [GitHub](https://github.com/net-lisias-ksp/TweakScale)
+	+ [GitHub](https://github.com/TweakScale/TweakScale)
 * Large Boat Parts Pack ([SpannerMonkey](https://forum.kerbalspaceprogram.com/index.php?/profile/50907-spannermonkeysmce/))
 	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/155992-14x-large-boat-parts-pack-v393-read-first-post-before-installing/)
 	+ [SpaceDock](https://spacedock.info/mod/167/Large%20Boat%20Parts%20Pack)  
